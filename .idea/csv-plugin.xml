@@ -38,6 +38,41 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/calculator/pom.xml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/calculator/src/main/java/com/epam/brest/Main.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/calculator/src/main/java/com/epam/brest/service/ServiceMenu.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/calculator/src/test/java/com/epam/brest/service/ServiceMenuTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/calculator/task.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/pom.xml">
           <value>
             <Attribute>

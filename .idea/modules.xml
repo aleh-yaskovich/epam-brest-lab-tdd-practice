@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/authorization/authorization.iml" filepath="$PROJECT_DIR$/authorization/authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/epam-brest-lab-tdd-practice.iml" filepath="$PROJECT_DIR$/.idea/epam-brest-lab-tdd-practice.iml" />
     </modules>
   </component>
